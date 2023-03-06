@@ -1,0 +1,41 @@
+.fruit-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+  }
+  
+  .fruit-box {
+    width: 150px;
+    height: 150px;
+    border: 5px solid black;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  
+  #box0 {
+    background-image: url("cherry.png");
+  }
+  
+  #box1 {
+    background-image: url("crown.png");
+  }
+
+
+  #box2 {
+    background-image: url("strawberry.png");
+  }
+  .score-container {
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  #fruit-points {
+    margin-top: 20px;
+  }
+  
+  #spin {
+    margin-top: 50px;
+    margin-left: 20px;
+  }
+  
