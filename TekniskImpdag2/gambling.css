@@ -1,0 +1,106 @@
+.dropdown {
+
+
+    display: inline-block;
+  
+    position: relative;
+
+
+}  
+
+.dropdown-content a {
+
+
+    display: block;
+
+    color: #000000;
+
+
+    padding: 5px;
+
+
+    text-decoration: none;
+}
+
+
+.menu {
+    display: inline-block;
+    position: relative;
+    border: 1px solid black;
+    padding: 5px;
+    width: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+.arrow {
+    position: absolute;
+    top: 15px;
+    width: 20px;
+    height: 30px;
+    line-height: 0px;
+    font-size: 16px;
+    cursor: pointer;
+    color: black;
+}
+.up {
+    left: 80px;
+}
+.down {
+    left: 80px;
+    top: 30px;
+}
+
+.menu {
+    display: inline-block;
+    position: relative;
+    border: 1px solid black;
+    padding: 5px;
+    width: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+.arrow {
+    position: absolute;
+    top: 15px;
+    width: 20px;
+    height: 30px;
+    line-height: 0px;
+    font-size: 16px;
+    cursor: pointer;
+    color: black;
+}
+.up {
+    left: 80px;
+}
+.down {
+    left: 80px;
+    top: 30px;
+}
+
+
+.menu {
+    display: inline-block;
+    position: relative;
+    border: 1px solid black;
+    padding: 5px;
+    width: 60px;
+    text-align: center;
+    font-size: 20px;
+}
+.arrow {
+    position: absolute;
+    top: 15px;
+    width: 20px;
+    height: 30px;
+    line-height: 0px;
+    font-size: 16px;
+    cursor: pointer;
+    color: black;
+}
+.up {
+    left: 80px;
+}
+.down {
+    left: 80px;
+    top: 30px;
+}
